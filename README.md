@@ -6,6 +6,8 @@ One of main obstacles many amateurs face in the mixing stage is the lack of "var
 Hold up, looks like amateur Johnny has a question:
 **Why not just boost the highs with an eq?**
 Eq boosting results in making the existing mid-to-high frequency content louder, not better. If the top end is already static and lifeless, an EQ would simply amplify that lifelessness. In constrast, Sweetener does not increase the treble volume at all; it increases the quality by adding variations and phase shifts at intended frequencies. 
+### Core DSP Concepts:
+
 
 ### Installation Guide
 Sweetener can be built either as a JUCE Plugin or a standalone CLI (WAV -> WAV) tool.
